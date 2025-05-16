@@ -42,9 +42,9 @@ cd "Text Analyzer"
 go run main.go
 ```
 ## Технічні особливості
-Використовуються базові типи Go: string, int
+Використовуються базові типи Go:```string, int```
 
-Застосовано if/else, switch, for, break, continue
+Застосовано ```if/else, switch, for, break, continue```
 
 Обробка помилок при порожньому введенні
 
